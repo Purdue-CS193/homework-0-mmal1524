@@ -1,7 +1,7 @@
 # Mahima's First CS193 Homework
 
 - learning useful skills
-- lot's of opportunities for extra help
+- lots of opportunities for extra help
 
 ## Welcome to GitHub Pages
 
